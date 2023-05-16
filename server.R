@@ -7,6 +7,7 @@ library(DT)
 library(data.table)
 library(lubridate)
 library(shinyalert)
+library(rsconnect)
 
 rm(list = ls())
 useShinyalert()
