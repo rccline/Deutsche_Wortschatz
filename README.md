@@ -9,6 +9,8 @@
  * This app is intended as a repository for my personal German vocabulary builder. It is a modification of Jiena McClellan's *DT-Editor* shiny module. 
  
  * You can clone this repository and use it to build your personal vocabulary builder.  
+  -[First install two programs: Install R first and then, RStudio](https://www.youtube.com/watch?v=jQgI8jCNIO4) 
+  - [Click here for a Tutorial on how to Clone a GitHub Repository in RStudio](https://www.youtube.com/watch?v=NInwldFZgwA)
  
  * Comments and suggestions are welcome. Use *GitHub.com/rccline/Deutsche_Wortschatz/issues* to file a comment.   
  
